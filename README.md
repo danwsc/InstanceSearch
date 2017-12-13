@@ -9,6 +9,7 @@ For this to work, first get the above code working on your system.
 The InstanceSearch code uses Python 2.7 with
 - Tensorflow
 - Nearpy
+
 The Tensorflow version I used had gpu support.  I was not able to get the cpu only version working and stopped debugging this when gpu support resources were made available.
 
 The Instance Search algorithm is developed from 
